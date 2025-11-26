@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "seanluyk",
+      "avatar_url": "https://avatars.githubusercontent.com/u/14880206?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "seanluyk",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-11-26T17:55:28.093Z",
-    "updated_at": "2025-11-26T17:55:28.093Z"
-  }
+    "updated_at": "2025-11-26T17:55:28.093Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "4101d689-4de3-49d8-be89-f0547af2f38c": {
+      "content": [],
+      "created_at": "2025-11-26T17:55:28.096Z",
+      "created_by": "seanluyk",
+      "title": "importaviarytest",
+      "updated_at": "2025-11-26T17:55:28.096Z",
+      "updated_by": "seanluyk",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "4101d689-4de3-49d8-be89-f0547af2f38c"
+  ]
 }
